@@ -1,0 +1,22 @@
+[
+  {
+    "id": "epub-1",
+    "title": "Titre du livre 1",
+    "description": "Description courte visible dans la galerie.",
+    "author": "Auteur A",
+    "tags": ["fantasy", "romance"],
+    "categories": ["Catégorie X"],
+    "cover": "covers/epub-1.jpg",
+    "url": "https://www.dropbox.com/s/XXXXXXXX/epub-1.epub?dl=1"
+  },
+  {
+    "id": "epub-2",
+    "title": "Titre du livre 2",
+    "description": "Une autre description.",
+    "author": "Auteur B",
+    "tags": ["science-fiction"],
+    "categories": ["Catégorie Y", "Catégorie Z"],
+    "cover": "covers/epub-2.jpg",
+    "url": "https://www.dropbox.com/s/YYYYYYYY/epub-2.epub?dl=1"
+  }
+]
