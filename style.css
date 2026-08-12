@@ -100,8 +100,8 @@ main {
 .coverWrap img {
   position: absolute;
   inset: 0;
-  width: 80%;
-  height: 80%;
+  width: 120%;
+  height: 120%;
   object-fit: cover;
 }
 
