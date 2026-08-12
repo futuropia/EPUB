@@ -47,7 +47,7 @@ function render(list) {
   grid.innerHTML = '';
 
   if (list.length === 0) {
-    grid.innerHTML = `<div class="card" style="grid-column:1/-1; min-height:165px; display:flex; align-items:center; justify-content:center; color: var(--muted);">
+    grid.innerHTML = `<div class="card" style="grid-column:1/-1; min-height:160px; display:flex; align-items:center; justify-content:center; color: var(--muted);">
       Aucun résultat.
     </div>`;
     count.textContent = '0 résultat';
