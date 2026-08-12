@@ -1,22 +1,122 @@
 [
   {
     "id": "epub-1",
-    "title": "Titre du livre 1",
-    "description": "Description courte visible dans la galerie.",
-    "author": "Auteur A",
-    "tags": ["fantasy", "romance"],
-    "categories": ["Catégorie X"],
-    "cover": "covers/epub-1.jpg",
+    "title": "Scythia : L'étonnante Histoire de l'antique Irlande",
+    "description": "Les Irlandais et les Ecossais puisent-ils leurs origines chez les Scythes de la mer... Caspienne?",
+    "author": "Hervé Cariou",
+    "tags": ["Culture celtique"],
+    "categories": ["Essai"],
+    "cover": "covers/ScythiaB.jpg",
     "url": "https://www.dropbox.com/s/XXXXXXXX/epub-1.epub?dl=1"
   },
   {
     "id": "epub-2",
-    "title": "Titre du livre 2",
-    "description": "Une autre description.",
-    "author": "Auteur B",
-    "tags": ["science-fiction"],
-    "categories": ["Catégorie Y", "Catégorie Z"],
-    "cover": "covers/epub-2.jpg",
+    "title": "Brittia : L’Histoire méconnue des Bretons",
+    "description": "Durant la protohistoire, les ancêtres des Bretons vivaient-ils sur les rivages de la mer... Noire?",
+    "author": "Hervé Cariou",
+    "tags": ["Culture celtique"],
+    "categories": ["Essai"],
+    "cover": "covers/Brittia.jpg",
+    "url": "https://www.dropbox.com/s/YYYYYYYY/epub-2.epub?dl=1"
+  }
+  {
+    "id": "epub-3",
+    "title": "Keltia : L’étrange Histoire des Celtes",
+    "description": "Les Celtes puisent-ils leurs origines chez les Cimmériens et/ou les (Scythes) Gaëls?",
+    "author": "Hervé Cariou",
+    "tags": ["Culture celtique"],
+    "categories": ["Essai"],
+    "cover": "covers/Keltia.jpg",
+    "url": "https://www.dropbox.com/s/YYYYYYYY/epub-2.epub?dl=1"
+  }
+  {
+    "id": "epub-4",
+    "title": "Nâga : L'Histoire de la population nâga",
+    "description": "Durant la protohistoire, une population joua-t-elle un rôle civilisateur de l'océan Indien à la Méditerranée en passant par la mer Rouge?",
+    "author": "Hervé Cariou",
+    "tags": ["Protohistoire"],
+    "categories": ["Essai"],
+    "cover": "covers/Nâga.jpg",
+    "url": "https://www.dropbox.com/s/YYYYYYYY/epub-2.epub?dl=1"
+  }
+  {
+    "id": "epub-5",
+    "title": "Maya : L’Histoire de la population maya",
+    "description": "Avant leur migration vers l'Amérique, les Mayas vivaient-ils dans la péninsule indienne et plus précisément, au Baloutchistan?",
+    "author": "Hervé Cariou",
+    "tags": ["Protohistoire"],
+    "categories": ["Essai"],
+    "cover": "covers/Maya.jpg",
+    "url": "https://www.dropbox.com/s/YYYYYYYY/epub-2.epub?dl=1"
+  }
+  {
+    "id": "epub-6",
+    "title": "Luzia : L’Histoire ancienne du Nouveau Continent",
+    "description": "Avant la dernière grande glaciation et (bien) avant les migrants venus d'Asie, l'Amérique abritait des sociétés humaines. D'où venaient-elles?",
+    "author": "Hervé Cariou",
+    "tags": ["Préhistoire"],
+    "categories": ["Essai"],
+    "cover": "covers/Luzia.jpg",
+    "url": "https://www.dropbox.com/s/YYYYYYYY/epub-2.epub?dl=1"
+  }
+  {
+    "id": "epub-7",
+    "title": "Gaia : La Préhistoire revisitée",
+    "description": "Selon le consensus actuel, des hominidés archaïques engendrèrent notre genre humain actuel. Peut-on poser l'hypothèse... inverse?",
+    "author": "Hervé Cariou",
+    "tags": ["Préhistoire"],
+    "categories": ["Essai"],
+    "cover": "covers/Gaia.jpg",
+    "url": "https://www.dropbox.com/s/YYYYYYYY/epub-2.epub?dl=1"
+  }
+  {
+    "id": "epub-8",
+    "title": "Koya : Les indices de la ''génohistoire''",
+    "description": "La génétique des populations est l'étude de la reproduction des populations et révolutionne la protohistoire.",
+    "author": "Hervé Cariou",
+    "tags": ["Protohistoire"],
+    "categories": ["Essai"],
+    "cover": "covers/Koya.jpg",
+    "url": "https://www.dropbox.com/s/YYYYYYYY/epub-2.epub?dl=1"
+  }
+  {
+    "id": "epub-9",
+    "title": "Sela : Des témoignages historiques surréels",
+    "description": "Tout ce que vous ignorez (peut-être) sur les témoignages historiques les plus surréalistes.",
+    "author": "Hervé Cariou",
+    "tags": ["Anticipation"],
+    "categories": ["Essai"],
+    "cover": "covers/Sela.jpg",
+    "url": "https://www.dropbox.com/s/YYYYYYYY/epub-2.epub?dl=1"
+  }
+  {
+    "id": "epub-10",
+    "title": "Troia : L’Histoire de la Nouvelle-Troie",
+    "description": "Durant la protohistoire, des survivants du carnage de Troie fondèrent-ils une société en... Grande-Bretagne?",
+    "author": "Hervé Cariou",
+    "tags": ["Culture celtique"],
+    "categories": ["Essai"],
+    "cover": "covers/Troia.jpg",
+    "url": "https://www.dropbox.com/s/YYYYYYYY/epub-2.epub?dl=1"
+  }
+  {
+    "id": "epub-11",
+    "title": "India : Les origines de l’Inde",
+    "description": "L'Inde abrita-t-elle la société humaine la plus avancée de la protohistoire?",
+    "author": "Hervé Cariou",
+    "tags": ["Protohistoire"],
+    "categories": ["Essai"],
+    "cover": "covers/India.jpg",
+    "url": "https://www.dropbox.com/s/YYYYYYYY/epub-2.epub?dl=1"
+  }
+  {
+    "id": "epub-12",
+    "title": "Namaka : Les origines des peuples antiques",
+    "description": "Cet essai traite des origines d'une quinzaine de populations civilisatrices de la protohistoire.",
+    "author": "Hervé Cariou",
+    "tags": ["Protohistoire"],
+    "categories": ["Essai"],
+    "cover": "covers/Namaka.jpg",
     "url": "https://www.dropbox.com/s/YYYYYYYY/epub-2.epub?dl=1"
   }
 ]
