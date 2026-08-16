@@ -145,7 +145,7 @@
     "description": "In 1320, the Declaration of Arbroath written in Latin, contains a surprising paragraph.",
     "author": "Cryfris Llydaweg",
     "tags": ["Celtic Culture"],
-    "categories": ["Les grandes énigmes"],
+    "categories": ["The great mysteries"],
     "cover": "covers/Scythia-EN.jpg",
     "url": ""
   },
@@ -184,8 +184,8 @@
     "title": "Origins of the Celts: As you have never read them before!",
     "description": "If you think the Celtic world is only twenty-five centuries old, this free eBook will disappoint you, as it adds another seven centuries.",
     "author": "Hervé Cariou",
-    "tags": ["Protohistoire"],
-    "categories": ["Les grandes énigmes"],
+    "tags": ["Celtic Culture"],
+    "categories": ["The great mysteries"],
     "cover": "covers/Origins.jpg",
     "url": ""
   },
@@ -245,7 +245,7 @@
     "description": "This essay presents a glossary of ancient populations that were Indo-European or adopted a proto-Indo-European language.",
     "author": "Hervé Cariou",
     "tags": ["Ancient History"],
-    "categories": ["Antiquity Gloassaries"],
+    "categories": ["Antiquity Glossaries"],
     "cover": "covers/Europe-EN.jpg",
     "url": ""
   },
@@ -374,7 +374,7 @@
     "title": "Underwater Mesolithic: As you have never read it before!",
     "description": "This essay aims to compile unexpected discoveries (all underwater) relating to the Mesolithic period.",
     "author": "Hervé Cariou",
-    "tags": ["Protohistoire"],
+    "tags": ["Protohistory"],
     "categories": ["Underwater Mesolithic"],
     "cover": "covers/Mesolithic.jpg",
     "url": ""
